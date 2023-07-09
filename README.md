@@ -1,4 +1,4 @@
-*[Recipe Finder](https://dikshantjajoriya.github.io/Recipe-FInder/)*  <br> 
+*[Recipe Finder](https://dikshantjajoriya.github.io/Recipe-Finder/)*  <br> 
 Recipe Finder is a web application that allows users to search for their favourite recipes. It utilizes the Edamam API to fetch a wide range of recipes based on user input. The application provides a simple and intuitive user interface, making it easy for users to search and explore various recipes.
 
 *Features* <br> 
@@ -13,7 +13,7 @@ Recipe Finder is a web application that allows users to search for their favouri
 •	Edamam API <br>
 
 *How to Use* <br> 
-1.Open the [link](https://dikshantjajoriya.github.io/Recipe-FInder/).  <br>
+1.Open the [link](https://dikshantjajoriya.github.io/Recipe-Finder/).  <br>
 2. Enter a recipe keyword in the search bar and click the "Find" button or press Enter.<br>
 3. Explore the displayed recipes and hover over a recipe card to view its ingredient list. <br>
 
