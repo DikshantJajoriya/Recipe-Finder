@@ -21,4 +21,4 @@ Recipe Finder is a web application that allows users to search for their favouri
 Recipe data provided by the [Edamam API](https://www.edamam.com/) <br>
 
 *Acknowledgements* <br> 
-Special thanks to the developers and contributors of the Edamam API for providing a valuable resource for recipe data. <br>
+Special thanks to the developers and contributors of the Edamam API for providing a valuable resource for recipe data. 
